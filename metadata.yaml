@@ -1,0 +1,35 @@
+_repo: Visitas-ao-Santissimo-Sacramento-e-a-Maria-Santissima-para-todos-os-dias-do-mez_22658
+_version: 0.1.0
+alternative_title: Visitas ao Santíssimo Sacramento e a Maria Santíssima para todos
+  os dias do mês
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2007-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22658'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Ricardo F. Diogo, Rita Farinha and the Online\r\nDistributed\
+  \ Proofreading Team at http://www.pgdp.net"
+publication_note: "Lisboa:\r\nTypographia de Luiz C. da Cunha, Costa do Castello n.^o\
+  \ 15\r\n1858"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lord''s Supper -- Prayers and devotions -- Portuguese'
+- !lcsh 'Catholic Church -- Prayers and devotions -- Portuguese'
+- !lcsh 'Mary, Blessed Virgin, Saint -- May devotions -- Portuguese'
+- !lcc 'BV'
+title: Visitas ao Santissimo Sacramento e a Maria Santissima para todos os dias do
+  mez
+url: http://www.gutenberg.org/ebooks/22658
