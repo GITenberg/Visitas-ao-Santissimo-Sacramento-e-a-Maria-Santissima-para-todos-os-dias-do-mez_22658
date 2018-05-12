@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22658#Visitas-ao-Santissimo-Sacramento-e-a-Maria-Santissima-para-todos-os-dias-do-mez
 gutenberg_issued: '2007-09-18'
 gutenberg_type: Text
 identifiers:
